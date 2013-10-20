@@ -1,0 +1,15 @@
+﻿body {
+}
+
+tr:first-Child {
+    background-color: yellow;
+} 
+
+td:first-Child {
+    background-color: yellow;
+} 
+
+td { 
+    border:1px solid black; 
+    background-color: red;
+}
