@@ -1,4 +1,6 @@
 ﻿body {
+	margin-right: auto;
+	margin-left: auto;
 }
 
 tr:first-Child td{
